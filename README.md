@@ -2,7 +2,7 @@
 This project predicts whether a customer will churn (leave a service) based on multiple features.
 The solution includes:
 
-* A trained Machine Learning model
+* A trained Machine Learning model  
 
 * A Flask web application
 
